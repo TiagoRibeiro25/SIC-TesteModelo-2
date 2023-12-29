@@ -1,5 +1,5 @@
 {
-	"name": "1",
+	"name": "ex1",
 	"version": "1.0.0",
 	"description": "Teste Modelo 2",
 	"main": "./src/server.js",
